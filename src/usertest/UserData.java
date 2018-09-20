@@ -1,5 +1,12 @@
+package usertest;
+
+import comparison.CompLine;
+
 import java.util.Locale;
 import java.util.Scanner;
+import punkty.Points;
+
+import odcinek.Line;
 
 public class UserData {
     public static void main(String[] args) {

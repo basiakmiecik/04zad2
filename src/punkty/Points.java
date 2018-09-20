@@ -1,3 +1,5 @@
+package punkty;
+
 public class Points {
     private double point1x;
     private  double point1y;

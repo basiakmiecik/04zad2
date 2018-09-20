@@ -1,3 +1,7 @@
+package odcinek;
+
+import punkty.Points;
+
 public class Line {
 
     public double length;

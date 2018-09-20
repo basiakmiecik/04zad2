@@ -1,8 +1,12 @@
+package comparison;
+import odcinek.Line;
+import punkty.Points;
+
 public class CompLine {
 
-    //Line line=new Line();
-    double greaterline;
-   // Points points;
+    //odcinek.Line line=new odcinek.Line();
+    public double greaterline;
+   // punkty.Points points;
   public double comparison(Line line1, Points points, Line line2, Points points2){
 
       if (line1.odcinek(points)>line2.odcinek(points2)){
